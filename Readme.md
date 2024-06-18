@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Secret Chat
 
 Welcome to **Secret Chat**! This is a real-time chat application built with the power of **React** on the frontend and **Node.js** on the backend, leveraging the **Socket.io** package for seamless web-socket connections. 🎉
