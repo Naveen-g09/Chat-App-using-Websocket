@@ -54,9 +54,6 @@ http://localhost:3000
 
 To test the real-time communication, open the application in another browser window or tab, and enjoy chatting! 💬
 
-## 📸 Screenshots
-
-![Chat Screen](https://your-image-link-here.com/chat-screen.png)
 
 ## 🙌 Contributing
 
@@ -69,4 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Happy chatting! 🗨️✨
-```
