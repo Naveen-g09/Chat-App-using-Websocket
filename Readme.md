@@ -3,7 +3,8 @@
 
 Welcome to **Secret Chat**! This is a real-time chat application built with the power of **React** on the frontend and **Node.js** on the backend, leveraging the **Socket.io** package for seamless web-socket connections. 🎉
 
-![Chat App](https://your-image-link-here.com/chat-app-image.png)
+![Secret Chat](https://github.com/Naveen-g09/Chat-App-using-Websocket/assets/76151123/622dbfe8-e68c-4805-90fe-cbaedf105a87)
+
 
 ## 🧠 Project Purpose
 
